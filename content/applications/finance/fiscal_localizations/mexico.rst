@@ -648,6 +648,9 @@ download the payment PDF from the :guilabel:`CFDI` tab on the invoice by clickin
 .. image:: mexico/mx-print-payment.png
    :alt: Example of the print button on the CFDI tab.
 
+Factoring
+*********
+
 .. _l10n/mx/invoice-cancellations:
 
 Invoice cancellations
